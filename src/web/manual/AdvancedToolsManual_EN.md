@@ -2,7 +2,7 @@
 
 ## 1\. Introduction to Advanced Tools
 
-**Advanced Tools** is a platform feature designed for users seeking high flexibility and customized prediction capabilities. Its core value lies in allowing users to **freely select the underlying Protein Language Model (PLM) and prediction datasets**, thus enabling precise control and optimization of the prediction process, moving beyond the preset configurations of Quick Tools.
+**Advanced Tools** is a platform feature designed for users seeking high flexibility and customized prediction capabilities. Its core value lies in allowing users to **freely select the underlying Protein Language Model (PLM) and prediction datasets**, thus enabling precise control and optimization of the prediction process, moving beyond the preset configurations of Quick Tools
 
 ### 1.1 Intelligent Directed Evolution
 
@@ -231,4 +231,5 @@ This module allows users to **freely select the underlying PLM model** for high-
 **Download Results:** Users can click this button to **download all detailed prediction data** from the table to their local computer for further data processing and archival.
 
 -----
+
 
