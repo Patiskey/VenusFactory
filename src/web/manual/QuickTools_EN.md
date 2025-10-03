@@ -88,7 +88,6 @@ This module displays the prediction results upon task completion and provides op
 
 **Download Results:** Users can click this button to **download all detailed prediction data** from the table to their local computer for further data processing and archival.
 
-
 I will first translate the Chinese text into English, removing any redundant phrases. Then, I will structure the entire translated text using the requested code-like format.
 
 -----
@@ -219,4 +218,5 @@ I will first translate the Chinese text into English, removing all redundant phr
 * **Secondary structure:** Displays a table showing the **Position**, **Residue type**, and the corresponding **DSSP secondary structure code** (e.g., $\text{H}$ for $\alpha$-helix, $\text{E}$ for $\beta$-sheet) for each residue.
 
 **Download Results:** Users can click this button to **download all detailed prediction data** from the table to their local computer for further data processing and archival.
+
 
